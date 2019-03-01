@@ -8,7 +8,7 @@ Policy Gradient
 https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient
 https://www.skooldio.com
 
-DDPG
+DDPG  
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/contents/9_Deep_Deterministic_Policy_Gradient_DDPG/DDPG_update2.py 
 https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#dpg
 https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
